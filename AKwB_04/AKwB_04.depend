@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1611322049 source:c:\users\marce\documents\code block projects\akwb_04\akwb_04.cpp
+	"AKwB_04.hpp"
+
+1611320129 source:c:\users\marce\documents\code block projects\akwb_04\main.cpp
+	"AKwB_04.hpp"
+
+1611088596 c:\users\marce\documents\code block projects\akwb_04\akwb_04.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	<ctime>
+	<sstream>
+	<iterator>
+
